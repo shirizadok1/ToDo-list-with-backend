@@ -1,4 +1,4 @@
-# ToDo-list-v2
+# ToDo-list-v2-with-backend
 
 This version includes mongoose and mongoDB in order to save the data.
 The dynamic endpoint I created will allow you to specify any endpoint you wish and access the page, that will create a new list to each endpoint and will be restored in the mongoDB so that you can have multiple todo lists, such as work, home, school etc.

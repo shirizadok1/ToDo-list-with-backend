@@ -5,13 +5,15 @@ The dynamic endpoint I created will allow you to specify any endpoint you wish a
 https://floating-forest-10049.herokuapp.com/
 
 initial screen and addidng a new todo item
-![image](https://user-images.githubusercontent.com/85099151/178789554-e1def6bf-0472-45c6-8e1a-7aedba316169.png)
 
-![image](https://user-images.githubusercontent.com/85099151/178789640-7d70a670-bf3f-435b-95d0-dfa06f5591f0.png)
+![image](https://user-images.githubusercontent.com/85099151/182890777-6041589a-ebdb-4ca8-89b3-5ae34949e178.png)
+![image](https://user-images.githubusercontent.com/85099151/182891301-035a2321-85cd-42e0-b78f-fdcf63744e28.png)
 
 Deleting an item
-![image](https://user-images.githubusercontent.com/85099151/178789726-af2a9dd4-87dc-4776-9aec-3570c046ce3c.png)
-![image](https://user-images.githubusercontent.com/85099151/178789771-c965fac2-4f37-404b-8918-804d0b2966af.png)
 
-The dynamic endpoint (School in this example, feel free to specify anything)
-![image](https://user-images.githubusercontent.com/85099151/178790562-11adbb93-65c6-4445-916d-5a86bf5b34f1.png)
+![image](https://user-images.githubusercontent.com/85099151/182891597-0c2a7c1a-a354-4f9f-bf27-4986330663d5.png)
+![image](https://user-images.githubusercontent.com/85099151/182891669-209ca52c-ceaf-4ba2-a767-6801c03d9643.png)
+
+
+The dynamic endpoint ("School" in this example, feel free to specify anything)
+![image](https://user-images.githubusercontent.com/85099151/182892293-07484240-1aa0-4c11-bb57-4beb4fe16d60.png)

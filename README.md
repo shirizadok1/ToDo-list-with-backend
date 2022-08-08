@@ -18,4 +18,4 @@ Delete an item
 The dynamic endpoint ("School" in this example, feel free to specify anything)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![image](https://user-images.githubusercontent.com/85099151/182892293-07484240-1aa0-4c11-bb57-4beb4fe16d60.png)
+![image](https://user-images.githubusercontent.com/85099151/183379510-ae3e25c8-fa73-411c-9254-2e7edfef3df2.png)
